@@ -1,0 +1,38 @@
+.appbar {
+    min-height: 15vh;
+    width: 100%;
+}
+
+.logo {
+    height: 10vh;
+    width: 150px;
+    margin-top: 15px;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 20px;
+    color: #223554;
+    font-family: 'Abel', sans-serif;
+    margin-left: 15px;
+    margin-top: 16px;
+    cursor: pointer;
+}
+
+.link:hover {
+    color: #0a76db;
+}
+
+.link1 {
+    text-decoration: none;
+    font-size: 22px;
+    font-weight: 500;
+    color: #223554;
+    font-family: 'Abel', sans-serif;
+    cursor: pointer;
+    margin-top: 15px;
+}
+
+.link1:hover {
+    color: #0a76db;
+}
